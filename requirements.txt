@@ -1,0 +1,15 @@
+tweepy
+python-dotenv
+kafka-python
+langdetect
+pyspark
+findspark
+nzpyida
+streamlit
+wordcloud
+enchant
+nltk
+numpy
+pandas
+plotly
+matplotlib
